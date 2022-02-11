@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @wasabi98
-- 👀 I’m interested in programming and videogames
-- 🌱 I’m currently learning at Budapest University of Technology and Economics
+
+
 
 
 <!---
